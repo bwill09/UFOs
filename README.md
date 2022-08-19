@@ -12,10 +12,13 @@ JavaScript, HTML/CSS, and Bootstrap
 ### Output 
 
 #### Signtings!
-Screen Shot 2022-08-19 at 10.56.56 AM.png
+
+<img width="1130" alt="Screen Shot 2022-08-19 at 10 56 56 AM" src="https://user-images.githubusercontent.com/106555873/185650243-3fd9059b-e088-435f-8dec-d9bf52ae1795.png">
 
 #### Filters
-Screen Shot 2022-08-19 at 10.57.46 AM.png
+
+<img width="978" alt="Screen Shot 2022-08-19 at 10 57 46 AM" src="https://user-images.githubusercontent.com/106555873/185650296-4d6609ae-a1e9-4d97-822a-0cd62d5f2f11.png">
+
 
 #### Shortcoming
 
