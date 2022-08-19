@@ -20,7 +20,7 @@ JavaScript, HTML/CSS, and Bootstrap
 <img width="978" alt="Screen Shot 2022-08-19 at 10 57 46 AM" src="https://user-images.githubusercontent.com/106555873/185650296-4d6609ae-a1e9-4d97-822a-0cd62d5f2f11.png">
 
 
-#### Shortcoming
+#### UFOs Weakness
 
 As a user you may have to know partiular dates, cities, or shape to do a search. The filter is case-sensitive, to lower case spellings and no space tolorable
 
