@@ -26,6 +26,6 @@ As a user you may have to know partiular dates, cities, or shape to do a search.
 
 #### Suggestion
 
-And addition would be a function to resolve the space issue and case the sensitivity 
+And addition would be a function to resolve the space issue and the case sensitivity 
 
 
